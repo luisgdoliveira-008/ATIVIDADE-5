@@ -1,5 +1,5 @@
 #icon{
-    width: 200px;
+    width: 300px;
     height: 400px;
    
 }
@@ -7,14 +7,25 @@
 
 
 nav{
-    background-color: #8dabff;
+    background-color: #9eb7fd;
     font-family: monospace;
     font-size: x-large;
-    color: aliceblue;
+    color: rgb(4, 0, 255);
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    margin: 10px;
+    justify-content: flex-start;
+    margin: 5px;
     border-radius: 35px;
     border: 4px solid #ffffff;
+}
+
+button{
+    background-color: #0004ff;
+    font-family: monospace;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    border-radius: 35px;
+    border: 4px solid #0105ff;
+}
+header{
+    display: flex;
 }
