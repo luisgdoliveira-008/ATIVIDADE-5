@@ -1,0 +1,20 @@
+#icon{
+    width: 200px;
+    height: 400px;
+   
+}
+
+
+
+nav{
+    background-color: #8dabff;
+    font-family: monospace;
+    font-size: x-large;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    border-radius: 35px;
+    border: 4px solid #ffffff;
+}
