@@ -119,3 +119,26 @@ table {
     margin-bottom: 25px;
 }
 
+thead {
+    background-color: #3498db;
+    color: white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+    background-color: #e6f2ff;
+}
+
+/* Formulário */
+form p {
+    margin-bottom: 15px;
+}
